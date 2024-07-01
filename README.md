@@ -1,4 +1,4 @@
-## Gantt
+## Diagrama de Gantt
 
 ## VERSION 1
 
